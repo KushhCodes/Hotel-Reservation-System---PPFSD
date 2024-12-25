@@ -1,2 +1,2 @@
-# Hotel-Reservation-System--PPFSD
-Developed hotel reservation system using basic concepts of python programming
+# Hotel Reservation System
+Developed hotel reservation system using basic concepts of python programming.
